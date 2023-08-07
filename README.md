@@ -54,3 +54,16 @@
         <li>Literals is just the way to create identifier with the value.</li>
     </tr>
 </table>
+
+<h3>Primitive Type & Object</h3>
+<h4>Primitive Types</h4>
+<p>JavaScript Data or values are primitive or object. Primitive data are immutable means we cannot change the value of the variable after initializing<br>JS recognized four types of numerical literals, Binary, Decimal, Octal, HexaDecimal.</p>
+
+<h4>Boolean</h4> 
+<p> Boolean is just a value type that have only two possible values. True or False. We dont use boolean values inside quotaion marks.("")</p>
+
+<h4>Symbols</h4> 
+<p>In ecmascript 6 we have a new type symbol.<br>Symbols is the new data type in es6 which represent Unique tokens.<br>Once you created a symbol it is unique and it will not match any other symbols.</p>
+
+<h4>Null & Undefined</h4> 
+<p>JS has two special types null and undefined.<br>Null has only one possible value which is Null and undefined has only one possible value undefined<br>Both Null and undefined Represent something doesn't exist.</p>
