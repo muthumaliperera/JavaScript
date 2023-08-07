@@ -32,6 +32,25 @@
 <table style="border: none  padding: 10px;">
     <tr>
         <td>Variables</td>
-        <td><li></li></td>
+        <td><li>Variable is a name that contains a specific value</li></td>
+    </tr>
+    <tr>
+        <td>Constant</td>
+        <td><li>In ES6 a new Keyword added in the JavaScript which is const.</li>
+        <li>Constant also hold value but unlike variables it can't be changed after initialization.</li>
+    </tr>
+    <tr>
+        <td>Identifier</td>
+        <td><li>Variables and constants are usually call identifier.</li>
+        <li>Identifier consists of letters numbers Underscore(_) and the Dollar ($) sign.</li>
+        <li>Unicode Characters are allowed</li>
+        <li>Identifier must start with the letter Dollar sign ($) or underscore(_).</li>
+        <li>Identifier cannot be a reserved word.(words that created for a specific task).</li>
+        </td>
+    </tr>
+    <tr>
+        <td>Literals</td>
+        <td><li>You are providing a value directly in the program.</li>
+        <li>Literals is just the way to create identifier with the value.</li>
     </tr>
 </table>
