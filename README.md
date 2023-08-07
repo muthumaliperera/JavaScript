@@ -67,3 +67,51 @@
 
 <h4>Null & Undefined</h4> 
 <p>JS has two special types null and undefined.<br>Null has only one possible value which is Null and undefined has only one possible value undefined<br>Both Null and undefined Represent something doesn't exist.</p>
+
+<!--Tutorial 05 -->
+
+<h4>Object Types</h4>
+<li>Array</li>
+<li>Date</li>
+<li>Regular Expression</li>
+<li>Map & WeakMap</li>
+<li>Set and WeakSet</li>
+
+<h4>What is Object?</h4>
+<li>Objects are mutable</li>
+<li>Can change any value anytime.</li>
+<li>Object is just like a Container that can have different kind of data.</li>
+<li>Object literal syntax :{} </li>
+
+<img src="js1.png" alt="workspace"/>
+
+<h4>Array</h4>
+<li>Array is Collection of Different types of Data.</li>
+<li>Array Start with [0] and end with [n] value.</li>
+<li>Array element can be any type of of data, It may be objects or primitive type.</li>
+<li>Array size is not fixed so you can add and remove array element anytime.</li>
+<li>Array is zero based. So the first element of the array is 0 next element is 1 and so on.</li>
+
+<img src="js2.png" alt="workspace"/>
+
+<h4>Date</h4>
+<li>Represent date and time using date object.</li>
+
+<h4>Date</h4>
+<li>Represent date and time using date object.</li>
+
+<img src="js3.png" alt="workspace"/>
+
+<h4>Regular Expression</h4>
+<li>It is a sub language of JavaScript</li>
+<li>Used to perform Complex search and replace operations on strings.</li>
+
+
+<h4>Maps and Sets</h4>
+<li>In new ECMAScript 6 a new data type introduced is map and set and their week counterpart, WeekMap and Weakset.</li>
+<li>Maps are just likean object but it offers more advantages than object in certain situations</li>
+<li>Set are similar to array expect they can't content duplicate element.</li>
+
+<img src="js4.png" alt="workspace"/>
+
+
