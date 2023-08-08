@@ -129,28 +129,37 @@
         <td>New line</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>\r</td>
+        <td>Carriage Return</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>\t</td>
+        <td>Tab</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>\' & \"</td>
+        <td>Single & Double Quote</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>\`</td>
+        <td>Backtick (new ES6)</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>\$</td>
+        <td>Dollar Sign (new ES6)</td>
     </tr>
+    <tr>
+        <td>\\</td>
+        <td>Backslash</td>
+    </tr>
+    <tr>
+        <td>\\uXXXX</td>
+        <td>Unicode Format</td>
+    </tr>
+    
 </table>
 
-<img src="js4.png" alt="workspace"/>
+<img src="" alt="workspace"/>
 
 
 
@@ -160,4 +169,4 @@
 <h4></h4>
 <li></li>
 
-<img src="js4.png" alt="workspace"/>
+<img src="" alt="workspace"/>
