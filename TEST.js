@@ -96,7 +96,7 @@
  const dt = new Date(2023,8,7,17,32);//17:32pm
 
  console.log(dt);
-
+/** 
  //Maps and sets
  const roles = new Map();//create Map
 
@@ -110,3 +110,16 @@
 
  //specify set to user
  role.add('UserA');
+ */
+
+//STRING
+
+let str = 'this is a sample text, "I love learning JS"';
+
+let str1 = "today is a lovely day";
+
+let str2 = '"today is tuesday", said john';
+
+console.log(str);
+console.log(str2);
+console.log(str1);

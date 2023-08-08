@@ -114,4 +114,50 @@
 
 <img src="js4.png" alt="workspace"/>
 
+<!--Tutorial 06 -->
+<h4>String</h4>
+<li>A Collection of characters, Numbers, and Symbols.</li>
+<li>In Js string represents UNICODE TEXT<li>Unicode text is a computing industrial standard for representing text data.</li><li>Unicode store letter and characters By assigning a number of each one.</li></li>
+<li>Special Chracters</li>
+<table>
+    <tr>
+        <td>Escaping Characters</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>\n</td>
+        <td>New line</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
+<img src="js4.png" alt="workspace"/>
+
+
+
+
+
+
+<h4></h4>
+<li></li>
+
+<img src="js4.png" alt="workspace"/>
