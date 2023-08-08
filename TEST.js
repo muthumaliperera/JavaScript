@@ -123,3 +123,16 @@ let str2 = '"today is tuesday", said john';
 console.log(str);
 console.log(str2);
 console.log(str1);
+
+//STRING CONCATENATION
+
+let temp2 = 31.5;
+let str3 = "Weather of Sri Lanka is " + temp2 + "\u00b0c";
+
+console.log(str3);
+
+//multiline string
+
+let str4 = 'line1 \n line2';
+
+console.log(str4);

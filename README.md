@@ -83,7 +83,7 @@
 <li>Object is just like a Container that can have different kind of data.</li>
 <li>Object literal syntax :{} </li>
 
-<img src="js1.png" alt="workspace"/>
+<img src="js1.png" alt="workspace" width="300"/>
 
 <h4>Array</h4>
 <li>Array is Collection of Different types of Data.</li>
@@ -92,7 +92,7 @@
 <li>Array size is not fixed so you can add and remove array element anytime.</li>
 <li>Array is zero based. So the first element of the array is 0 next element is 1 and so on.</li>
 
-<img src="js2.png" alt="workspace"/>
+<img src="js2.png" alt="workspace" width="300"/>
 
 <h4>Date</h4>
 <li>Represent date and time using date object.</li>
@@ -100,7 +100,7 @@
 <h4>Date</h4>
 <li>Represent date and time using date object.</li>
 
-<img src="js3.png" alt="workspace"/>
+<img src="js3.png" alt="workspace" width="300"/>
 
 <h4>Regular Expression</h4>
 <li>It is a sub language of JavaScript</li>
@@ -112,7 +112,7 @@
 <li>Maps are just likean object but it offers more advantages than object in certain situations</li>
 <li>Set are similar to array expect they can't content duplicate element.</li>
 
-<img src="js4.png" alt="workspace"/>
+<img src="js4.png" alt="workspace" width="300"/>
 
 <!--Tutorial 06 -->
 <h4>String</h4>
@@ -159,7 +159,7 @@
     
 </table>
 
-<img src="" alt="workspace"/>
+<img src="js5.PNG" alt="workspace" width="300"/>
 
 
 
@@ -169,4 +169,4 @@
 <h4></h4>
 <li></li>
 
-<img src="" alt="workspace"/>
+<img src="" alt="workspace" width="300"/>
