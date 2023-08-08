@@ -83,7 +83,7 @@
 <li>Object is just like a Container that can have different kind of data.</li>
 <li>Object literal syntax :{} </li>
 
-<img src="js1.png" alt="workspace" width="300"/>
+<img src="js1.png" alt="workspace" width="600"/>
 
 <h4>Array</h4>
 <li>Array is Collection of Different types of Data.</li>
@@ -92,7 +92,7 @@
 <li>Array size is not fixed so you can add and remove array element anytime.</li>
 <li>Array is zero based. So the first element of the array is 0 next element is 1 and so on.</li>
 
-<img src="js2.png" alt="workspace" width="300"/>
+<img src="js2.png" alt="workspace" width="600"/>
 
 <h4>Date</h4>
 <li>Represent date and time using date object.</li>
@@ -100,7 +100,7 @@
 <h4>Date</h4>
 <li>Represent date and time using date object.</li>
 
-<img src="js3.png" alt="workspace" width="300"/>
+<img src="js3.png" alt="workspace" width="600"/>
 
 <h4>Regular Expression</h4>
 <li>It is a sub language of JavaScript</li>
@@ -112,7 +112,7 @@
 <li>Maps are just likean object but it offers more advantages than object in certain situations</li>
 <li>Set are similar to array expect they can't content duplicate element.</li>
 
-<img src="js4.png" alt="workspace" width="300"/>
+<img src="js4.png" alt="workspace" width="600"/>
 
 <!--Tutorial 06 -->
 <h4>String</h4>
@@ -159,7 +159,58 @@
     
 </table>
 
-<img src="js5.PNG" alt="workspace" width="300"/>
+<img src="js5.PNG" alt="workspace" width="600"/>
+
+<!--Tutorial 07 -->
+
+<h4>If & Else</h4>
+<img src="js6.PNG" alt="if_else_statement" width="600"/>
+
+
+<!--Tutorial 08 -->
+<h4>Switch</h4>
+<img src="js7.PNG" alt="Switch_statement" width="600"/>
+
+<!--Tutorial 09 -->
+<h4>Loop</h4>
+<li>While Loop</li>
+<img src="js8_1.PNG" alt="while_loop" width="500"/>
+
+<!--Tutorial 10 -->
+<li>Do while Loop</li>
+<img src="js8_2.PNG" alt="Do_while_Loop" width="500"/>
+
+<!--Tutorial 11 -->
+<li>for Loop</li>
+<img src="js8_3.PNG" alt="for_loop" width="600"/>
+
+
+<!--Tutorial 12 -->
+<li>Nested for Loop</li>
+<img src="js.9" alt="nested_for" width="500"/>
+
+
+<!--Tutorial 13 -->
+<li>for/in  Loop</li>
+<img src="js10.PNG" alt="for/in_loop" width="600"/>
+
+<!--Tutorial 14 -->
+<li>for/of  Loop</li>
+<img src="js11.PNG" alt="for/of_loop" width="600"/>
+
+
+
+<!--Tutorial 15 -->
+<h4></h4>
+<li></li>
+
+<img src="" alt="workspace" width="600"/>
+
+<!--Tutorial 16 -->
+<h4></h4>
+<li></li>
+
+<img src="" alt="workspace" width="600"/>
 
 
 
@@ -169,4 +220,4 @@
 <h4></h4>
 <li></li>
 
-<img src="" alt="workspace" width="300"/>
+<img src="" alt="workspace" width="600"/>
