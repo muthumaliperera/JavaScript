@@ -83,7 +83,7 @@
 <li>Object is just like a Container that can have different kind of data.</li>
 <li>Object literal syntax :{} </li>
 
-<img src="js1.png" alt="workspace" width="600"/>
+<img src="imgs/js1.png" alt="workspace" width="600"/>
 
 <h4>Array</h4>
 <li>Array is Collection of Different types of Data.</li>
@@ -92,7 +92,7 @@
 <li>Array size is not fixed so you can add and remove array element anytime.</li>
 <li>Array is zero based. So the first element of the array is 0 next element is 1 and so on.</li>
 
-<img src="js2.png" alt="workspace" width="600"/>
+<img src="imgs/js2.png" alt="workspace" width="600"/>
 
 <h4>Date</h4>
 <li>Represent date and time using date object.</li>
@@ -100,7 +100,7 @@
 <h4>Date</h4>
 <li>Represent date and time using date object.</li>
 
-<img src="js3.png" alt="workspace" width="600"/>
+<img src="imgs/js3.png" alt="workspace" width="600"/>
 
 <h4>Regular Expression</h4>
 <li>It is a sub language of JavaScript</li>
@@ -112,7 +112,7 @@
 <li>Maps are just likean object but it offers more advantages than object in certain situations</li>
 <li>Set are similar to array expect they can't content duplicate element.</li>
 
-<img src="js4.png" alt="workspace" width="600"/>
+<img src="imgs/js4.png" alt="workspace" width="600"/>
 
 <!--Tutorial 06 -->
 <h4>String</h4>
@@ -159,44 +159,44 @@
     
 </table>
 
-<img src="js5.PNG" alt="workspace" width="600"/>
+<img src="imgs/js5.PNG" alt="workspace" width="600"/>
 
 <!--Tutorial 07 -->
 
 <h4>If & Else</h4>
-<img src="js6.PNG" alt="if_else_statement" width="600"/>
+<img src="imgs/js6.PNG" alt="if_else_statement" width="600"/>
 
 
 <!--Tutorial 08 -->
 <h4>Switch</h4>
-<img src="js7.PNG" alt="Switch_statement" width="600"/>
+<img src="imgs/js7.PNG" alt="Switch_statement" width="600"/>
 
 <!--Tutorial 09 -->
 <h4>Loop</h4>
 <li>While Loop</li>
-<img src="js8_1.PNG" alt="while_loop" width="500"/>
+<img src="imgs/js8_1.PNG" alt="while_loop" width="500"/>
 
 <!--Tutorial 10 -->
 <li>Do while Loop</li>
-<img src="js8_2.PNG" alt="Do_while_Loop" width="500"/>
+<img src="imgs/js8_2.PNG" alt="Do_while_Loop" width="500"/>
 
 <!--Tutorial 11 -->
 <li>for Loop</li>
-<img src="js8_3.PNG" alt="for_loop" width="600"/>
+<img src="imgs/js8_3.PNG" alt="for_loop" width="600"/>
 
 
 <!--Tutorial 12 -->
 <li>Nested for Loop</li>
-<img src="js9.PNG" alt="nested_for" width="500"/>
+<img src="imgs/js9.PNG" alt="nested_for" width="500"/>
 
 
 <!--Tutorial 13 -->
 <li>for/in  Loop</li>
-<img src="js10.PNG" alt="for/in_loop" width="600"/>
+<img src="imgs/js10.PNG" alt="for/in_loop" width="600"/>
 
 <!--Tutorial 14 -->
 <li>for/of  Loop</li>
-<img src="js11.PNG" alt="for/of_loop" width="600"/>
+<img src="imgs/js11.PNG" alt="for/of_loop" width="600"/>
 
 
 
@@ -246,25 +246,42 @@
 </table>
 <li>Destructing Assignment Operator</li>
 <p>It is new in EcmaScript 6</p>
-<img src="js12.PNG" alt="Destructing Assignment Operato" width="600"/>
+<img src="imgs/js12.PNG" alt="Destructing Assignment Operato" width="600"/>
 
 
 <!--Tutorial 25-->
 <h4>Object and Array Operators</h4>
-<img src="js13.PNG" alt="object_array_operators" width="600"/>
+<img src="imgs/js13.PNG" alt="object_array_operators" width="600"/>
 
 <!--Tutorial 26-->
 <h4>instanceof Operator</h4>
-<img src="js14.PNG" alt="instanceof_operators" width="600"/>
+<img src="imgs/js14.PNG" alt="instanceof_operators" width="600"/>
 
 <h4>Delete Operator</h4>
-<img src="js15.PNG" alt="oDelete_operators" width="600"/>
+<img src="imgs/js15.PNG" alt="oDelete_operators" width="600"/>
 
 <h4>Conditional Operators</h4>
-<img src="js16.PNG" alt="Conditional _operators" width="600"/>
+<img src="imgs/js16.PNG" alt="Conditional _operators" width="600"/>
 
 
+<!--Tutorial 27,28-->
+<h4>Jump Statements</h4>
+<li>jump statement are used to jump the execution to the new location</li>
 
+<img src="imgs/js17.PNG" alt="workspace" width="600"/>
+
+<h4>Labeled Statements</h4>
+<li>allow us to specify name to the specific block that can refer it to somewhere in the program</li>
+
+<img src="imgs/js18.PNG" alt="workspace" width="600"/>
+
+<h4>Continue Statements</h4>
+<li>Restart the loop after next iteration</li>
+
+<img src="imgs/js19.PNG" alt="workspace" width="600"/>
+
+<h4>Return Statements</h4>
+<img src="imgs/js20.PNG" alt="workspace" width="600"/>
 
 
 

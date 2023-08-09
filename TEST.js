@@ -413,3 +413,42 @@ print = print?print:"YOU ARE WELCOME!";
 //if print expression is evaluate to false then return Welcome text to the print variable
 
 console.log(print);
+
+/**Jump Statements */
+
+/** Break */
+for(let i=1;i<=5;i++){
+    if(i==3)break;//break statement when i==3
+    console.log(i);//print i
+}
+
+/**labeled statement */
+
+let p=1;
+label:while(p==1){
+    console.log(p);//print p on the cosole > 1
+    break label;//break the loop execution after printing 1 on the console
+}
+
+/**continue */
+let x=10;
+while(x<0){
+    x++;
+    if(x==5){
+        continue;//continue will skip the rest of the code
+    }
+    console.log(x);
+}
+/**return */
+//create a function
+function add(x){ 
+    return x+x;
+}
+//call function and print x value on the console
+console.log(add(5));//print addition of x value
+
+
+
+
+
+
