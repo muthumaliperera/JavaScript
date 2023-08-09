@@ -187,7 +187,7 @@
 
 <!--Tutorial 12 -->
 <li>Nested for Loop</li>
-<img src="js9.png" alt="nested_for" width="500"/>
+<img src="js9.PNG" alt="nested_for" width="500"/>
 
 
 <!--Tutorial 13 -->
