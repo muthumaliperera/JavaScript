@@ -448,7 +448,34 @@ function add(x){
 console.log(add(5));//print addition of x value
 
 
+/**Functions */
+function Magic(){
+    console.log("Hello");
+    console.log("World");
+}
+Magic();
+//function with return
+function Magic2(){
+    return "Good day";
+}
+Magic2();
+console.log(Magic2());
 
+//declare object with property
+const obj6 = {f:Magic2};
 
+console.log(obj6.f());
 
+/**Function Arguments */
+    //function with two parameter
+    function demo(a,b){//a,b are formal arguments, after getting values they become actual arguments
+        return(a+b)/2;//return answer to console
+    }
+    console.log(demo(5,40));//call function
 
+/**Default Arguments */    
+
+function f2(x="default"){
+    return `in function:x = ${x}`;//use backtick to specify string
+}
+console.log(f2());//without parameter

@@ -8,7 +8,7 @@
             <li>In present Js not only execute on browser but also on the server.</li>
             <li>Node.js is one of the most amazing example of server-side JavaScript</li>
         </td>
-        <td> <img src="js.gif" alt="Gif_img_here" width="200" /> </td>
+        <td> <img src="imgs/js.gif" alt="Gif_img_here" width="200" /> </td>
  </tr>
 </table>
 
@@ -284,9 +284,20 @@
 <img src="imgs/js20.PNG" alt="workspace" width="600"/>
 
 
+<!--Tutorial 29-->
+<h4>Functions</h4>
+<li>Declare with function keyword followed by function name</li>
+<li>parameters are optional</li>
 
+<img src="" alt="workspace" width="600"/>
 
+<!--Tutorial 30-->
+<h4>Function Arguments & Defualt Arguments</h4>
+<h5>Function Arguments</h5>
+<img src="imgs/js22.PNG" alt="workspace" width="600"/>
 
+<h5>Default Arguments</h5>
+<img src="imgs/js23.PNG" alt="workspace" width="600"/>
 
 <!--Tutorial 25-->
 <h4></h4>
