@@ -307,3 +307,109 @@ for(let value of ary2){
  * for..in - loop over enumerable properties
  * for..of - does use iterable objects and loop over generated values
  */
+
+
+
+//Destructing Assignment Operator
+    //normal object declaration
+    const obj3 = {a:1, b:2, c:3, e:5}
+
+    //destructing assignment
+    const {a,b,c,d,e,} = obj3;
+
+    //print variables
+    console.log(a);
+    console.log(d);
+
+
+
+//declare array
+     const array =[1,2,3,4,5,6];
+//destructing assignment operator
+    let[f,g,...rest] =array;//we used [] to declaredestructing array operator
+
+    console.log(f);
+    console.log(rest);
+
+
+
+/** Member Access Operators */
+
+//syntax
+
+Object.Property;//must valid identifier
+
+//example
+const obj4 = {id:"1", name2:"daily"};
+console.log(obj4.name2);//access obj property using(.)member access operator
+
+/**Computed Member Access */
+console.log(obj4["name2"]);//using computed member access operator
+
+/**in Operator */
+    //declare object
+    const car = {cname:"BMW", Model:"i8", year:2015};
+    console.log("cname" in car);//result would be true
+
+/**Operator new */
+    //new operator use to create instance of the object
+
+    class model{
+        constructor(){
+
+        }
+    }
+//creating an instance of the Model class
+const c1 = new model();
+//creating another instance
+const c2 = new model();
+
+
+
+/**instanceof Operator */
+const d1 = new Date();
+console.log(d1 instanceof Date);//would be true
+
+//declare array
+const arry1 =[1,2,3];
+console.log(arry1 instanceof Array);//would be true
+//but
+console.log(arry1 instanceof Date);//false
+
+/**Delete Operator */
+const obj5 ={x:1, y:2, z:3};
+//check object property x in the object or not
+console.log('x' in obj5);//true
+//delete one property
+delete obj5.x;//x deleted
+//check object property x in the object or not
+console.log('x' in obj5);//false
+
+//using array
+const arr =[1,2,3,4];
+console.log(arr[0]);
+//delete array element
+delete arr[2];
+console.log(arr[2]);//result is undefined because 2nd element deleted
+
+/**Conditional Operators */
+    //conditional operator has 3 operands
+    //1operand ? 2operand : 3 operand;
+
+//if and else
+let print ="Hey Everyone";
+/*
+if(print){
+    console.log(print);
+}else{
+    print = "Welcome";
+    console.log(print);
+}*/
+    //if print variable null else statement will print to console
+
+//conditional operator
+print = print?print:"YOU ARE WELCOME!";
+//if print expression is evaluate to true then return print to the print variable
+//if print expression is evaluate to false then return Welcome text to the print variable
+
+console.log(print);

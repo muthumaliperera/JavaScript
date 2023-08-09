@@ -187,7 +187,7 @@
 
 <!--Tutorial 12 -->
 <li>Nested for Loop</li>
-<img src="js.9" alt="nested_for" width="500"/>
+<img src="js9.png" alt="nested_for" width="500"/>
 
 
 <!--Tutorial 13 -->
@@ -201,22 +201,76 @@
 
 
 <!--Tutorial 15 -->
-<h4></h4>
+<h4>Expressions</h4>
+<li>Expression is a statement that evaluate to a value</li>
+
+<h5>Primary Expression/ Simple Expression</h5>
+<p>Constant or literal values, it can be variable reference or certain language result keywords</p>
+<li>5.30- number literals </li>
+<li>"Name" - String literals</li>
 <li></li>
 
-<img src="" alt="workspace" width="600"/>
+<h5>JavaScript Reserve Words</h5>
+<li>Null</li>
+<li>True</li>
+<li>False</li>
 
-<!--Tutorial 16 -->
-<h4></h4>
-<li></li>
+<h5>Bare Expressions</h5>
+<li>str - expression evaluate to the value of the str</li>
+<li>undefined - it is a global variable , not a keyword like null</li>
+<li>False</li>
 
-<img src="" alt="workspace" width="600"/>
+<!--Tutorial 16-24-->
+<h4>Operators</h4>
+<li>Assignment Operators</li>
+<li>Arithmetic Operators</li>
+<li>Comparison Operators</li>
+<li>String Operators</li>
+<li>Logical Operators</li>
+<li>Bitwise Operators</li>
+<li>Ternary Operators</li>
+<li>Type Operators</li>
+<table>
+    <tr>
+        <td>Operator</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>typeof</td>
+        <td>Returns the type of a variable</td>
+    </tr>
+    <tr>
+        <td>instanceof</td>
+        <td>Returns true if an object is an instance of an object type</td>
+    </tr>
+</table>
+<li>Destructing Assignment Operator</li>
+<p>It is new in EcmaScript 6</p>
+<img src="js12.PNG" alt="Destructing Assignment Operato" width="600"/>
+
+
+<!--Tutorial 25-->
+<h4>Object and Array Operators</h4>
+<img src="js13.PNG" alt="object_array_operators" width="600"/>
+
+<!--Tutorial 26-->
+<h4>instanceof Operator</h4>
+<img src="js14.PNG" alt="instanceof_operators" width="600"/>
+
+<h4>Delete Operator</h4>
+<img src="js15.PNG" alt="oDelete_operators" width="600"/>
 
 
 
 
 
 
+
+
+
+
+
+<!--Tutorial 25-->
 <h4></h4>
 <li></li>
 
