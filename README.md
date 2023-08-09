@@ -260,7 +260,8 @@
 <h4>Delete Operator</h4>
 <img src="js15.PNG" alt="oDelete_operators" width="600"/>
 
-
+<h4>Conditional Operators</h4>
+<img src="js16.PNG" alt="Conditional _operators" width="600"/>
 
 
 
