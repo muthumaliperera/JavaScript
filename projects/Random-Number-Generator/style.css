@@ -2,18 +2,48 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2em;
     text-align: center;
+    background-image: url(./dice-3095227_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
 }
 #randomBtn{
     font-size: 3em;
     padding: 5px 25px;
     border-radius: 10px;
-    border: 1px solid rgb(107, 107, 107);
-    background-color: rgb(107, 107, 255);
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(248, 248, 248);
     transition: background-color 0.25s;
 }
 #randomBtn:hover{
-    background-color:rgb(66, 66, 255);
+    background-color:rgb(231, 50, 50);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.raLabels{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 80%;
+    height: 30%;
+    background-color: rgba(255, 255, 255, 0.347);
+    border-radius: 15px;
 }
 .randomLabels{
     font-size: 3em;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    gap: 20px;
 }
