@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#btnContainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: orange;
+    border:1px solid rgb(145, 145, 145);
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+
+}
+.buttons:hover{
+    background-color: rgb(100, 65, 0);
+}
