@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+#randomBtn{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 10px;
+    border: 1px solid rgb(107, 107, 107);
+    background-color: rgb(107, 107, 255);
+    transition: background-color 0.25s;
+}
+#randomBtn:hover{
+    background-color:rgb(66, 66, 255);
+}
+.randomLabels{
+    font-size: 3em;
+}
