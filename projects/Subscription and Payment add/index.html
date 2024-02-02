@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
+<div class="container">
+    <div class="subscribe-container">
+        <input type="checkbox" id="myCheckBox">
+        <label for="myCheckBox">Subscribe to our<br> News Letter!</label><br><br>
+    </div>
+    <div class="card-container">
+        <input type="radio" id="visaBtn" name="card">
+        <label for="visaBtn">Visa</label><br>
+
+        <input type="radio" id="masterCardBtn" name="card">
+        <label for="masterCardBtn">Master Card</label><br>
+
+        <input type="radio" id="payPalBtn" name="card">
+        <label for="payPalBtn">PayPal</label><br><br>
+    </div>
+    <div class="submitBtn-container">
+    <button type="submit" id="submitBtn">Submit</button>
+    </div>
+    <div class="result-container">
+        <p id="subResult"></p>
+        <p id="paymentResult"></p>
+    </div>
+</div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
